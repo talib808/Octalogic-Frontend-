@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.fontSize{
+  font-size: 15px;
+  font-weight: 400;
+  padding:7px;
+  text-align: left;
+  
+}
+.fontsizeinput{
+  font-size: 15px;
+  padding:8px 17px;
+}
+.form{
+  background-color: white;
+}
+.fontSizeadd_or_cancel{
+  font-size: 15px;
+}
+.form{
+  display: none;
+}
+
